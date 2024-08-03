@@ -42,9 +42,9 @@
 .theme-light {
   --dplus-backdrop: url(https://raw.githubusercontent.com/FlipIsLickin/formydiscordtheme/main/Gradient.png);
 
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 0%;
-  --dplus-accent-color-lightness: 0%;
+  --dplus-accent-color-hue: 117
+  --dplus-accent-color-saturation: 63%;
+  --dplus-accent-color-lightness: 20%;
 
   --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
