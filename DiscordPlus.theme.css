@@ -21,18 +21,18 @@
   --dplus-backdrop: url(https://raw.githubusercontent.com/FlipIsLickin/formydiscordtheme/main/Gradient.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 120;
-  --dplus-accent-color-saturation: 63%;
-  --dplus-accent-color-lightness: 20%;
+  --dplus-accent-color-hue: 156;
+  --dplus-accent-color-saturation: 69%;
+  --dplus-accent-color-lightness: 98%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 120;
-  --dplus-foreground-color-hue-links: 120;
+  --dplus-foreground-color-hue-base: 156;
+  --dplus-foreground-color-hue-links: 156;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
-  --dplus-background-color-hue: 120;
+  --dplus-background-color-hue: 156;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.0;
